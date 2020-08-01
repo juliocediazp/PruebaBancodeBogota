@@ -9,5 +9,6 @@
 <body>
     <h1>Demo Bcrypt</h1>
     <h1>modificacion  v1.0.1</h1>
+    <h1>modificacion  v1.2.0</h1>
 </body>
 </html>
